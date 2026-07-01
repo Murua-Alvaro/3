@@ -1,0 +1,5 @@
+{
+  "type": "FeatureCollection",
+  "features": [],
+  "nota": "Reemplazar con el GeoJSON real de secciones electorales de Mazatlán. Cada feature debe tener la clave SECCION o equivalente."
+}

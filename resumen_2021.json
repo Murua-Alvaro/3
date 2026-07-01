@@ -1,0 +1,101 @@
+{
+  "anio": 2021,
+  "secciones": 496,
+  "lista_nominal": 375359,
+  "votantes": 155121,
+  "no_votantes": 194698,
+  "no_sabe": 25540,
+  "participacion": 0.41326,
+  "top_oportunidad": [
+    {
+      "SECCION": 2995,
+      "lista_nominal": 11476,
+      "votantes": 2896,
+      "no_votantes": 7863,
+      "participacion": 0.252353,
+      "indice_oportunidad_0_100": 87.545645,
+      "nivel_oportunidad": "Alta"
+    },
+    {
+      "SECCION": 2988,
+      "lista_nominal": 12968,
+      "votantes": 4898,
+      "no_votantes": 7351,
+      "participacion": 0.377699,
+      "indice_oportunidad_0_100": 81.570409,
+      "nivel_oportunidad": "Alta"
+    },
+    {
+      "SECCION": 2691,
+      "lista_nominal": 12272,
+      "votantes": 6077,
+      "no_votantes": 6195,
+      "participacion": 0.495192,
+      "indice_oportunidad_0_100": 68.418805,
+      "nivel_oportunidad": "Alta"
+    },
+    {
+      "SECCION": 2607,
+      "lista_nominal": 6199,
+      "votantes": 1817,
+      "no_votantes": 4382,
+      "participacion": 0.293112,
+      "indice_oportunidad_0_100": 55.580665,
+      "nivel_oportunidad": "Media"
+    },
+    {
+      "SECCION": 2618,
+      "lista_nominal": 6024,
+      "votantes": 1391,
+      "no_votantes": 3964,
+      "participacion": 0.23091,
+      "indice_oportunidad_0_100": 55.149904,
+      "nivel_oportunidad": "Media"
+    },
+    {
+      "SECCION": 2613,
+      "lista_nominal": 5124,
+      "votantes": 1533,
+      "no_votantes": 3591,
+      "participacion": 0.29918,
+      "indice_oportunidad_0_100": 48.638112,
+      "nivel_oportunidad": "Media"
+    },
+    {
+      "SECCION": 2694,
+      "lista_nominal": 7234,
+      "votantes": 3374,
+      "no_votantes": 3860,
+      "participacion": 0.466409,
+      "indice_oportunidad_0_100": 46.90599,
+      "nivel_oportunidad": "Media"
+    },
+    {
+      "SECCION": 2849,
+      "lista_nominal": 3472,
+      "votantes": 1053,
+      "no_votantes": 2419,
+      "participacion": 0.303283,
+      "indice_oportunidad_0_100": 38.456027,
+      "nivel_oportunidad": "Media"
+    },
+    {
+      "SECCION": 2948,
+      "lista_nominal": 4006,
+      "votantes": 1188,
+      "no_votantes": 2150,
+      "participacion": 0.296555,
+      "indice_oportunidad_0_100": 37.844787,
+      "nivel_oportunidad": "Media"
+    },
+    {
+      "SECCION": 2804,
+      "lista_nominal": 4688,
+      "votantes": 1976,
+      "no_votantes": 2712,
+      "participacion": 0.421502,
+      "indice_oportunidad_0_100": 37.457591,
+      "nivel_oportunidad": "Media"
+    }
+  ]
+}
